@@ -1,0 +1,17 @@
+C:\Users\FERNANDOMEJIA\source\repos\json\json\bin\Debug\net6.0\json.exe
+C:\Users\FERNANDOMEJIA\source\repos\json\json\bin\Debug\net6.0\json.deps.json
+C:\Users\FERNANDOMEJIA\source\repos\json\json\bin\Debug\net6.0\json.runtimeconfig.json
+C:\Users\FERNANDOMEJIA\source\repos\json\json\bin\Debug\net6.0\json.dll
+C:\Users\FERNANDOMEJIA\source\repos\json\json\bin\Debug\net6.0\json.pdb
+C:\Users\FERNANDOMEJIA\source\repos\json\json\obj\Debug\net6.0\json.csproj.AssemblyReference.cache
+C:\Users\FERNANDOMEJIA\source\repos\json\json\obj\Debug\net6.0\json.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FERNANDOMEJIA\source\repos\json\json\obj\Debug\net6.0\json.AssemblyInfoInputs.cache
+C:\Users\FERNANDOMEJIA\source\repos\json\json\obj\Debug\net6.0\json.AssemblyInfo.cs
+C:\Users\FERNANDOMEJIA\source\repos\json\json\obj\Debug\net6.0\json.csproj.CoreCompileInputs.cache
+C:\Users\FERNANDOMEJIA\source\repos\json\json\obj\Debug\net6.0\json.dll
+C:\Users\FERNANDOMEJIA\source\repos\json\json\obj\Debug\net6.0\refint\json.dll
+C:\Users\FERNANDOMEJIA\source\repos\json\json\obj\Debug\net6.0\json.pdb
+C:\Users\FERNANDOMEJIA\source\repos\json\json\obj\Debug\net6.0\json.genruntimeconfig.cache
+C:\Users\FERNANDOMEJIA\source\repos\json\json\obj\Debug\net6.0\ref\json.dll
+C:\Users\FERNANDOMEJIA\source\repos\json\json\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\FERNANDOMEJIA\source\repos\json\json\obj\Debug\net6.0\json.csproj.CopyComplete
